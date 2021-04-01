@@ -24,6 +24,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <description>Americas OneCMS Sites Project</description>
 
+ <!-- comment added for testing workflow -->
+ 
     <modules>
         <module>all</module>
         <module>core</module>
